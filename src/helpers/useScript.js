@@ -1,3 +1,5 @@
+"use client"
+
 import { useState, useEffect } from 'react'
 
 // Code extracted from https://usehooks.com/useScript/

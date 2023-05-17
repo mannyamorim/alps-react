@@ -1,3 +1,5 @@
+"use client"
+
 /**
  * Extracted from Dan Abramov post:
  * https://overreacted.io/making-setinterval-declarative-with-react-hooks/
