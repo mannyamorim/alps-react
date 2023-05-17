@@ -1,5 +1,3 @@
-"use client"
-
 import React, { useMemo, useState, useContext } from 'react'
 import PropTypes from 'prop-types'
 

@@ -1,5 +1,3 @@
-"use client"
-
 import React, { useCallback, useEffect, useState, useRef } from 'react'
 
 import useInterval from './useInterval'
